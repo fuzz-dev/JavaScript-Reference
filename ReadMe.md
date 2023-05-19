@@ -43,10 +43,11 @@ map(), filter(), reduce() và nhiều hơn nữa. Chúng cho phép bạn thực 
 <p>Ngoài những khái niệm cơ bản, có rất nhiều tài nguyên trực tuyến để tìm hiểu và nâng cao kỹ năng lập trình JavaScript.
 Dưới đây là một số tài nguyên phổ biến:</p>
 
-- MDN JavaScript Guide: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide">Here</a> <br>
+
 - JavaScript info: <a href="https://javascript.info/">Here</a> <br>
-- W3Schools JavaScript Tutorial: <a href="https://www.w3schools.com/js/ ">Here</a><br>
 - Eloquent JavaScript: <a href="https://eloquentjavascript.net/ ">Here</a><br>
+- MDN JavaScript Guide: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide">Here</a> <br>
+- W3Schools JavaScript Tutorial: <a href="https://www.w3schools.com/js/ ">Here</a><br>
 - FreeCodeCamp JavaScript Algorithms and Data Structures: <a
     href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/ ">Here</a><br>
 
