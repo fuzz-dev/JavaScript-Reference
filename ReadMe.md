@@ -26,4 +26,5 @@ Ngoài những khái niệm cơ bản, có rất nhiều tài nguyên trực tuy
 - W3Schools JavaScript Tutorial: <a href="https://www.w3schools.com/js/ ">Here</a><br>
 - Eloquent JavaScript: <a href="https://eloquentjavascript.net/ ">Here</a><br>
 - FreeCodeCamp JavaScript Algorithms and Data Structures: <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/ ">Here</a><br>
-Hãy bắt đầu với các tài liệu và ví dụ đơn giản, và từ đó, bạn có thể nâng cao kiến thức và kỹ năng lập trình JavaScript của mình. <br>
+
+Hãy bắt đầu với các tài liệu và ví dụ đơn giản, và từ đó, bạn có thể nâng cao kiến thức và kỹ năng lập trình JavaScript của mình. 
