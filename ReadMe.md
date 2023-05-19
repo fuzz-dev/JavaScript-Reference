@@ -21,9 +21,9 @@ JavaScript là một ngôn ngữ lập trình thông dịch, đa nền tảng v�
 
 Ngoài những khái niệm cơ bản, có rất nhiều tài nguyên trực tuyến để tìm hiểu và nâng cao kỹ năng lập trình JavaScript. Dưới đây là một số tài nguyên phổ biến:
 
-<b>MDN JavaScript Guide: </b><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"> View</a><br>
-<b>JavaScript.info: </b><a href="https://javascript.info/ "> View</a><br>
-<b>W3Schools JavaScript Tutorial: </b><a href="https://www.w3schools.com/js/ "> View</a><br>
-<b>Eloquent JavaScript: </b><a href="https://eloquentjavascript.net/ "> View</a><br>
-<b>FreeCodeCamp JavaScript Algorithms and Data Structures: </b><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/ "> View</a><br>
+- MDN JavaScript Guide: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide">Here</a> <br>
+- JavaScript info: <a href="https://javascript.info/">Here</a> <br>
+- W3Schools JavaScript Tutorial: <a href="https://www.w3schools.com/js/ ">Here</a><br>
+- Eloquent JavaScript: <a href="https://eloquentjavascript.net/ ">Here</a><br>
+- FreeCodeCamp JavaScript Algorithms and Data Structures: <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/ ">Here</a><br>
 Hãy bắt đầu với các tài liệu và ví dụ đơn giản, và từ đó, bạn có thể nâng cao kiến thức và kỹ năng lập trình JavaScript của mình. <br>
