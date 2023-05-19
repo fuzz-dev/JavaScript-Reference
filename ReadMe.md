@@ -1,6 +1,7 @@
 <h1>JavaScript Reference</h1>
 JavaScript là một ngôn ngữ lập trình thông dịch, đa nền tảng và không đồng bộ được sử dụng phổ biến trong phát triển web. Nó cho phép bạn tương tác với các yếu tố HTML, thay đổi nội dung trang, xử lý sự kiện, gửi và nhận dữ liệu từ máy chủ và nhiều hơn nữa. Dưới đây là một số khái niệm quan trọng để bạn bắt đầu:
-
+<br>
+<br>
 <b>Syntax and Basic Structure:</b>JavaScript sử dụng cú pháp giống như C và các ngôn ngữ lập trình khác. Các khối mã thường được đặt trong cặp dấu ngoặc nhọn {} và các lệnh kết thúc bằng dấu chấm phẩy ;. JavaScript cũng có nhiều kiểu dữ liệu như số, chuỗi, mảng, đối tượng và hơn thế nữa.
 
 <b>Variables and Scope: </b>Bạn có thể sử dụng từ khóa var, let hoặc const để khai báo biến trong JavaScript. Tuy nhiên, ES6 (ECMAScript 2015) giới thiệu từ khóa let và const để định nghĩa biến có phạm vi block.
